@@ -1,0 +1,195 @@
+==============================
+B18DCDT050
+ ---> 1340 wav file(s)
+ ---> 1340 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT026
+ ---> 2076 wav file(s)
+ ---> 1732 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT048
+ ---> 1956 wav file(s)
+ ---> 1424 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT037
+ ---> 2052 wav file(s)
+ ---> 1620 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT040
+ ---> 1328 wav file(s)
+ ---> 1292 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT005
+ ---> 1924 wav file(s)
+ ---> 1284 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT002
+ ---> 2004 wav file(s)
+ ---> 1320 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT023
+ ---> 1624 wav file(s)
+ ---> 1228 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT056
+ ---> 1820 wav file(s)
+ ---> 1660 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT063
+ ---> 1472 wav file(s)
+ ---> 1200 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT076
+ ---> 984 wav file(s)
+ ---> 980 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT066
+ ---> 1276 wav file(s)
+ ---> 1276 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT092
+ ---> 1348 wav file(s)
+ ---> 1344 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT080
+ ---> 1368 wav file(s)
+ ---> 1364 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT093
+ ---> 1016 wav file(s)
+ ---> 988 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT084
+ ---> 1764 wav file(s)
+ ---> 1340 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT069
+ ---> 2524 wav file(s)
+ ---> 1520 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT077
+ ---> 2000 wav file(s)
+ ---> 1448 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT099
+ ---> 2100 wav file(s)
+ ---> 1688 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT085
+ ---> 1340 wav file(s)
+ ---> 1336 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT155
+ ---> 2080 wav file(s)
+ ---> 1328 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT146
+ ---> 800 wav file(s)
+ ---> 784 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT135
+ ---> 1796 wav file(s)
+ ---> 36 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT101
+ ---> 1712 wav file(s)
+ ---> 1344 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT142
+ ---> 820 wav file(s)
+ ---> 672 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT148
+ ---> 1928 wav file(s)
+ ---> 1320 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT127
+ ---> 2460 wav file(s)
+ ---> 1692 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT151
+ ---> 1560 wav file(s)
+ ---> 176 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT136
+ ---> 1384 wav file(s)
+ ---> 1380 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT117
+ ---> 2036 wav file(s)
+ ---> 0 text file(s)
+ ---> 1416 docx file(s)
+==============================
+B18DCDT201
+ ---> 640 wav file(s)
+ ---> 744 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT156
+ ---> 4 wav file(s)
+ ---> 4 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT186
+ ---> 140 wav file(s)
+ ---> 116 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT178
+ ---> 40 wav file(s)
+ ---> 0 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT211
+ ---> 180 wav file(s)
+ ---> 88 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT199
+ ---> 108 wav file(s)
+ ---> 36 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT160
+ ---> 20 wav file(s)
+ ---> 0 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT173
+ ---> 48 wav file(s)
+ ---> 48 text file(s)
+ ---> 0 docx file(s)
+==============================
+B18DCDT183
+ ---> 44 wav file(s)
+ ---> 36 text file(s)
+ ---> 0 docx file(s)
